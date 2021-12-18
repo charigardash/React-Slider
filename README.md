@@ -1,3 +1,3 @@
 #In Action
 
-slider-animation-react.netlify.app
+https://slider-animation-react.netlify.app/
